@@ -26,3 +26,11 @@ border-radius: 50%;
 section {
 padding-top: 5rem;
 }
+
+.navbar-nav .nav-hover:hover {
+  color: black !important;
+}
+
+.container .nav-hover:hover {
+  color: black !important;
+}
